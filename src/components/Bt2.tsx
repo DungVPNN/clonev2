@@ -6,7 +6,7 @@ interface State{
     id:number;
     name:string;
     age:string;
-    address:string;
+
 }
 export default class Bt2 extends Component<Props,State> {
     constructor(props:Props){
